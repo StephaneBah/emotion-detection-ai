@@ -26,7 +26,7 @@ Ensure the following are installed on your system:
 
 1. Clone the repository:
    ```bash
-   git clone 
+   git clone https://github.com/StephaneBah/emotion-detection-ai.git
    cd emotion-detection-ai
 2. Install the required dependencies:
    ```bash
